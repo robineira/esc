@@ -39,7 +39,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(https://i.ibb.co/ZLhzw2Z/lampada-desligada.png) no-repeat left top;
 }
 
 div.rele2_ligado {
@@ -59,7 +59,7 @@ div.rele2_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(https://i.ibb.co/jy2fXmV/lampada-ligada.png) no-repeat left top;
 }
 
 #div1 {
